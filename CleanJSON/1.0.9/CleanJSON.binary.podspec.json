@@ -1,0 +1,27 @@
+{
+  "name": "CleanJSON",
+  "version": "1.0.9",
+  "summary": "Swift JSON decoder for Codable.",
+  "homepage": "https://github.com/Pircate/CleanJSON",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pircate": "gao497868860@163.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/CleanJSON/1.0.9/zip",
+    "type": "zip"
+  },
+  "source_files": "Sources/CleanJSON/**/*",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": [
+    "5.2"
+  ],
+  "vendored_frameworks": "CleanJSON.framework",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」",
+  "swift_version": "5.2"
+}
